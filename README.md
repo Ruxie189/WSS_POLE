@@ -2,6 +2,7 @@
 =====
 This is a sample visualization from our  PrOmpt cLass lEarning (POLE). Full training and inference codes will be released upon paper acceptance.
 
+![](assets\WACV-24-Jose-1.png)
 
 ## Setup
 =====
