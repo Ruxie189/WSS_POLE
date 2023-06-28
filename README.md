@@ -28,6 +28,7 @@ pip install -r reqs.txt
 ```
 
 ## Running the Notebook
+=====
 Open a terminal in the same directory as that of the cloned repository and run:
 ```
 jupyter-notebook
