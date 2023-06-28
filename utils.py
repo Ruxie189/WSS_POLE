@@ -1,12 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import math
-import pandas
-import os
 import os.path as osp
-import json
 import pickle
-import clip
 import torch
 from torchvision import transforms
 from PIL import Image
