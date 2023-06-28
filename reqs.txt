@@ -1,0 +1,6 @@
+matplotlib
+numpy
+clip @ git+https://github.com/openai/CLIP.git@cfcffb90e69f37bf2ff1e988237a0fbe41f33c04
+torch
+torchvision
+Pillow
