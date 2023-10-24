@@ -34,3 +34,14 @@ Open a terminal in the same directory as that of the cloned repository and run:
 jupyter-notebook
 ```
 Open ```sim_test.ipynb``` to find the codes for visualizing CLIP similarity. Running the notebook is mostly self explanatory and further instructions have been provided inside the notebook.
+
+
+## Citations
+```
+@article{murugesan2023prompting,
+  title={Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation},
+  author={Murugesan, Balamurali and Hussain, Rukhshanda and Bhattacharya, Rajarshi and Ayed, Ismail Ben and Dolz, Jose},
+  journal={arXiv preprint arXiv:2307.00097},
+  year={2023}
+}
+```
