@@ -1,6 +1,6 @@
 # WSS_POLE
 
-This is a sample visualization from our  PrOmpt cLass lEarning (POLE). Full training and inference codes will be released upon paper acceptance.
+This is a sample visualization from our PrOmpt cLass lEarning (POLE). Full training and inference codes will be released upon paper acceptance.
 
 ![](assets/WACV-24-1.png)
 
@@ -38,10 +38,11 @@ Open ```sim_test.ipynb``` to find the codes for visualizing CLIP similarity. Run
 
 ## Citations
 ```
-@article{murugesan2023prompting,
+@inproceedings{murugesan2024prompting,
   title={Prompting classes: Exploring the Power of Prompt Class Learning in Weakly Supervised Semantic Segmentation},
-  author={Murugesan, Balamurali and Hussain, Rukhshanda and Bhattacharya, Rajarshi and Ayed, Ismail Ben and Dolz, Jose},
-  journal={arXiv preprint arXiv:2307.00097},
-  year={2023}
+  author={Murugesan, Balamurali and Hussain, Rukhshanda and Bhattacharya, Rajarshi and Ben Ayed, Ismail and Dolz, Jose},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={291--302},
+  year={2024}
 }
 ```
